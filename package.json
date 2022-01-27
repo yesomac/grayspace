@@ -1,0 +1,31 @@
+{
+    "name": "grayspace",
+    "displayName": "GraySpace",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SpaceGray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/inspiration.git",
+        "type": "git"
+    },
+    "publisher": "YesCode"
+}
