@@ -27,5 +27,6 @@
         "url": "https://github.com/yesomac/inspiration.git",
         "type": "git"
     },
-    "publisher": "YesCode"
+    "publisher": "YesCode",
+    "license": "MIT"
 }
