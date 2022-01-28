@@ -21,7 +21,16 @@
 		"tab.activeBackground": "#212121",
 		"tab.inactiveBackground": "#212121",
 		"tab.hoverBackground": "#212121",
-		"titleBar.activeBackground": "#212121"
+		"titleBar.activeBackground": "#212121",
+
+		"input.background": "#180f24",
+		"input.border": "#000000",
+		"input.placeholderForeground": "#fff",
+
+		"editor.lineHighlightBackground": "#706f7217",
+		"editorIndentGuide.activeBackground": "#a0a0a071",
+
+		"button.background": "#383738",
 	},
 	"tokenColors": [
 		{
