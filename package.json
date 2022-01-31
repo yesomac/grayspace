@@ -6,6 +6,11 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "keywords": [
+        "Theme",
+        "SpaceGray",
+        "SpaceGraySober"
+    ],
     "categories": [
         "Themes"
     ],
@@ -15,6 +20,11 @@
                 "label": "SpaceGray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-color-theme.json"
+            },
+            {
+                "label": "SpaceGraySober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-color-theme-sober.json"
             }
         ]
     },
