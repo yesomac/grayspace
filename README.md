@@ -1,0 +1,2 @@
+# grayspace
+Theme for vscode
