@@ -1,5 +1,4 @@
 # **GRAY SPACE**
-## 
 ##  Gray Space
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/gray1.png?raw=true)
 
