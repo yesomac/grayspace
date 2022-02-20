@@ -10,7 +10,7 @@
         "Theme",
         "SpaceGray",
         "SpaceGraySober",
-        "Space"
+        "SpaceGrayDeep"
     ],
     "categories": [
         "Themes"
@@ -28,7 +28,7 @@
                 "path": "./themes/SpaceGray-color-theme-sober.json"
             },
             {
-                "label": "Space",
+                "label": "SpaceGrayDeep",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Space-color-theme.json"
             }
