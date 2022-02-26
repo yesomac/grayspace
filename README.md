@@ -14,4 +14,4 @@
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/space.png?raw=true)
 
 ## Space Gray Morita 
-![This is an image](https://github.com/yesomac/grayspace/blob/master/space.png?raw=true)
+![This is an image](https://github.com/yesomac/grayspace/blob/master/graymorita.png?raw=true)
