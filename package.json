@@ -2,7 +2,7 @@
     "name": "grayspace",
     "displayName": "GraySpace",
     "description": "",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -37,6 +37,11 @@
                 "label": "SpaceGrayMorita",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-morita-color-theme.json"
+            },
+            {
+                "label": "SpaceGrayMorita14",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-morita14-color-theme.json"
             }
         ]
     },
