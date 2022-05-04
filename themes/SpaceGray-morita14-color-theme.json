@@ -20,7 +20,7 @@
 		"editorSuggestWidget.background": "#141414",
 		"editorSuggestWidget.selectedBackground": "#4b445a",
 
-		"activityBar.background": "#27042777",
+		"activityBar.background": "#2704278f",
 		"activityBar.foreground": "#fff",
 		"titleBar.activeForeground": "#fff",
 		"activityBarBadge.foreground": "#fff",
@@ -35,9 +35,13 @@
 		"badge.background": "#686867",
 		
 		"menu.background": "#141414",
-		"tab.activeBackground": "#141414",
+		"tab.activeBackground": "#0800089a",
 		"tab.inactiveBackground": "#141414",
-		"tab.hoverBackground": "#141414",
+		"tab.hoverBackground": "#2704278f",
+		"tab.activeBorder": "#141414",
+		"tab.activeBorderTop": "#1b011b9a",
+		"tab.border": "#141414",
+		"tab.activeForeground": "#ddd",
 
 		"titleBar.activeBackground": "#1b011b9a",
 		
@@ -46,20 +50,17 @@
 		"input.placeholderForeground": "#fff",
 		"focusBorder": "#110b1b",
 
-		"button.background": "#000",
-
-		"tab.activeBorder": "#c1a8f3",
-		"tab.activeForeground": "#f0c9f5",
+		"button.background": "#5e065e",
 		
 		"notifications.background": "#141414",
 		"quickInput.background": "#141414",
 		
-		"list.hoverBackground": "#141414",
-		"list.inactiveSelectionBackground": "#f591f52f",
+		"list.hoverBackground": "#f591f52f",
+		"list.inactiveSelectionBackground": "#5807588a",
 
-		"settings.textInputBackground": "#383441",
-		"settings.checkboxBackground": "#403b49",
-		"settings.dropdownBackground": "#3d3946",
+		"settings.textInputBackground": "#5807588a",
+		"settings.checkboxBackground": "#5807588a",
+		"settings.dropdownBackground": "#5807588a",
 		
 		"terminal.background": "#141414",
 		"terminal.foreground": "#fff",
@@ -81,7 +82,7 @@
 		"terminal.ansiYellow": "#FAC03B",
 		
 		"editor.hoverHighlightBackground": "#04000c",
-		"editorHoverWidget.background": "#04000a",
+		"editorHoverWidget.background": "#2704278f",
 		"list.activeSelectionBackground": "#080016"
 	},
 	"tokenColors": [
@@ -153,7 +154,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#FFC800"
+				"foreground": "#00ff88"
 			}
 		},
 		{
@@ -164,7 +165,8 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#fce61eb7"
+				"foreground": "#fc1e73b7",
+				"fontStyle": "italic"
 			}
 		},
 		{

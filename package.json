@@ -11,7 +11,8 @@
         "SpaceGray",
         "SpaceGraySober",
         "SpaceGrayDeep",
-        "SpaceGrayMorita"
+        "SpaceGrayMorita",
+        "SpaceGrayMorita14"
     ],
     "categories": [
         "Themes"
@@ -51,7 +52,7 @@
         "email": "yesdev19@gmail.com"
     },
     "repository": {
-        "url": "https://github.com/yesomac/MyThemes.git",
+        "url": "https://github.com/yesomac/platzi_theme.git",
         "type": "git"
     },
     "publisher": "YesCode",

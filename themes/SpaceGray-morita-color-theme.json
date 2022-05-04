@@ -14,8 +14,8 @@
 		"editor.inactiveSelectionBackground": "#64508d",
 		"editor.lineHighlightBackground": "#f591f521",
 		"editorIndentGuide.activeBackground": "#a0a0a071",
-		"editor.findMatchBackground": "#0d0816",
-		"editor.findMatchHighlightBackground": "#533b81",
+		"editor.findMatchBackground": "#1b011bd3",
+		"editor.findMatchHighlightBackground": "#533b819a",
 		"editorWidget.background":"#29262F",
 		"editorSuggestWidget.background": "#29262F",
 		"editorSuggestWidget.selectedBackground": "#4b445a",
@@ -35,9 +35,9 @@
 		"badge.background": "#686867",
 		
 		"menu.background": "#29262F",
-		"tab.activeBackground": "#29262F",
+		"tab.activeBackground": "#1b011b9a",
 		"tab.inactiveBackground": "#29262F",
-		"tab.hoverBackground": "#29262F",
+		"tab.hoverBackground": "#1b011b9a",
 
 		"titleBar.activeBackground": "#1b011b9a",
 		
@@ -46,16 +46,18 @@
 		"input.placeholderForeground": "#fff",
 		"focusBorder": "#110b1b",
 
-		"button.background": "#000",
+		"button.background": "#0800089a",
 
-		"tab.activeBorder": "#c1a8f3",
+		"tab.activeBorder": "#29262F",
+		"tab.activeBorderTop": "#1b011b9a",
+		"tab.border": "#29262F",
 		"tab.activeForeground": "#f0c9f5",
 		
 		"notifications.background": "#29262F",
 		"quickInput.background": "#29262F",
 		
 		"list.hoverBackground": "#29262F",
-		"list.inactiveSelectionBackground": "#f591f52f",
+		"list.inactiveSelectionBackground": "#f591f525",
 
 		"settings.textInputBackground": "#383441",
 		"settings.checkboxBackground": "#403b49",

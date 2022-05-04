@@ -7,17 +7,17 @@
 		"editorLineNumber.foreground": "#6c6d6ac7",
 		"editorLineNumber.activeForeground": "#fff",
 		"editorGroupHeader.tabsBackground": "#0E0F11",
-		"editor.selectionBackground": "#e08a0a3a",
-		"editor.inactiveSelectionBackground": "#38240798",
+		"editor.selectionBackground": "#000611ab",
+		"editor.inactiveSelectionBackground": "#000611",
 		"editor.lineHighlightBackground": "#706f7217",
 		"editorIndentGuide.activeBackground": "#a0a0a071",
-		"editor.findMatchBackground": "#24170491",
-		"editor.findMatchHighlightBackground": "#ffcc801e",
+		"editor.findMatchBackground": "#000611",
+		"editor.findMatchHighlightBackground": "#1b1e24",
 		"editorWidget.background":"#292928",
 		"editorSuggestWidget.background": "#0E0F11",
 		"editorSuggestWidget.selectedBackground": "#444343a9",
 
-		"activityBarBadge.background": "#6b6868",
+		"activityBarBadge.background": "#000611",
 		"activityBar.activeBackground": "#0E0F11",
 		"activityBar.background": "#0E0F11",
 		"activityBar.foreground": "#fff",
@@ -35,9 +35,12 @@
 		"badge.background": "#686867",
 		
 		"menu.background": "#0E0F11",
-		"tab.activeBackground": "#0E0F11",
+		"tab.activeBackground": "#000611",
 		"tab.inactiveBackground": "#0E0F11",
 		"tab.hoverBackground": "#0E0F11",
+		"tab.activeBorderTop": "#0E0F11",
+		"tab.border": "#0E0F11",
+		"tab.activeBorder": "#0E0F11",
 
 		"titleBar.activeBackground": "#0E0F11",
 		
@@ -46,16 +49,15 @@
 		"input.placeholderForeground": "#fff",
 		"focusBorder": "#424242",
 
-		"button.background": "#0E0F11",
+		"button.background": "#000611",
 
-		"tab.activeBorder": "#575656",
 		"tab.activeForeground": "#fff",
 		
 		"notifications.background": "#0E0F11",
 		"quickInput.background": "#0E0F11",
 		
-		"list.hoverBackground": "#201503",
-		"list.inactiveSelectionBackground": "#353534",
+		"list.hoverBackground": "#1b1d1f",
+		"list.inactiveSelectionBackground": "#272726",
 
 		"settings.textInputBackground": "#292928",
 		"settings.checkboxBackground": "#292928",
@@ -80,9 +82,9 @@
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#FAC03B",
 		
-		"editor.hoverHighlightBackground": "#5f5d5d",
-		"editorHoverWidget.background": "#5f5d5d",
-		"list.activeSelectionBackground": "#5f5d5d"
+		"editor.hoverHighlightBackground": "#121212",
+		"editorHoverWidget.background": "#0b1427",
+		"list.activeSelectionBackground": "#000611"
 	},
 	"tokenColors": [
 		{

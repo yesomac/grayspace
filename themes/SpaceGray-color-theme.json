@@ -7,17 +7,17 @@
 		"editorLineNumber.foreground": "#6c6d6ac7",
 		"editorLineNumber.activeForeground": "#fff",
 		"editorGroupHeader.tabsBackground": "#212121",
-		"editor.selectionBackground": "#ffcc8036",
+		"editor.selectionBackground": "#502b2b42",
 		"editor.inactiveSelectionBackground": "#38240736",
 		"editor.lineHighlightBackground": "#706f7217",
 		"editorIndentGuide.activeBackground": "#a0a0a071",
-		"editor.findMatchBackground": "#ffcc8091",
-		"editor.findMatchHighlightBackground": "#ffcc801e",
+		"editor.findMatchBackground": "#141414",
+		"editor.findMatchHighlightBackground": "#857e741e",
 		"editorWidget.background":"#292928",
 		"editorSuggestWidget.background": "#212121",
 		"editorSuggestWidget.selectedBackground": "#444343a9",
 
-		"activityBarBadge.background": "#6b6868",
+		"activityBarBadge.background": "#141414",
 		"activityBar.activeBackground": "#212121",
 		"activityBar.background": "#212121",
 		"activityBar.foreground": "#fff",
@@ -35,9 +35,9 @@
 		"badge.background": "#686867",
 		
 		"menu.background": "#212121",
-		"tab.activeBackground": "#212121",
+		"tab.activeBackground": "#363535b4",
 		"tab.inactiveBackground": "#212121",
-		"tab.hoverBackground": "#212121",
+		"tab.hoverBackground": "#141414",
 
 		"titleBar.activeBackground": "#212121", //
 		
@@ -46,15 +46,17 @@
 		"input.placeholderForeground": "#fff",
 		"focusBorder": "#424242",
 
-		"button.background": "#212121",
+		"button.background": "#141414",
 
-		"tab.activeBorder": "#575656",
+		"tab.activeBorder": "#212121",
+		"tab.activeBorderTop": "#212121",
+		"tab.border": "#212121",
 		"tab.activeForeground": "#fff",
 		
 		"notifications.background": "#212121",
 		"quickInput.background": "#212121",
 		
-		"list.hoverBackground": "#201503",
+		"list.hoverBackground": "#141414",
 		"list.inactiveSelectionBackground": "#353534",
 
 		"settings.textInputBackground": "#292928",
@@ -80,9 +82,9 @@
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#FAC03B",
 		
-		"editor.hoverHighlightBackground": "#5f5d5d",
-		"editorHoverWidget.background": "#5f5d5d",
-		"list.activeSelectionBackground": "#5f5d5d"
+		"editor.hoverHighlightBackground": "#121212",
+		"editorHoverWidget.background": "#121212",
+		"list.activeSelectionBackground": "#141414"
 	},
 	"tokenColors": [
 		{
