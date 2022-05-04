@@ -12,4 +12,4 @@
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/grayspacemorita14.png?raw=true)
 
 ##  Gray Sober
-![This is an image](https://github.com/yesomac/grayspace/blob/master/grayspacesober.png?raw=true)
+![This is an image]()
