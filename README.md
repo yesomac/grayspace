@@ -1,6 +1,6 @@
 # ***GRAY SPACE***
 
-# New Themes!
+New Themes!
 # Gray Space Blue
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/grayspaceblue.png?raw=true)
 
