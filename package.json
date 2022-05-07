@@ -12,7 +12,9 @@
         "SpaceGraySober",
         "SpaceGrayDeep",
         "SpaceGrayMorita",
-        "SpaceGrayMorita14"
+        "SpaceGrayMorita14",
+        "SpaceGrayPurple",
+        "SpaceGrayBlue"
     ],
     "categories": [
         "Themes"
@@ -43,6 +45,16 @@
                 "label": "SpaceGrayMorita14",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-morita14-color-theme.json"
+            },
+            {
+                "label": "SpaceGrayPurple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-purple-color-theme.json"
+            },
+            {
+                "label": "SpaceGrayBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-blue-color-theme.json"
             }
         ]
     },
