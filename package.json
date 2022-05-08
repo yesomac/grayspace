@@ -14,7 +14,9 @@
         "SpaceGrayMorita",
         "SpaceGrayMorita14",
         "SpaceGrayPurple",
-        "SpaceGrayBlue"
+        "SpaceGrayBlue",
+        "SpaceGrayGreen",
+        "SpaceGrayLightGreen"
     ],
     "categories": [
         "Themes"
@@ -55,6 +57,16 @@
                 "label": "SpaceGrayBlue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-blue-color-theme.json"
+            },
+            {
+                "label": "SpaceGrayGreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGrayGreen-color-theme.json"
+            },
+            {
+                "label": "SpaceGrayLightGreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGrayLightGreen-color-theme.json"
             }
         ]
     },

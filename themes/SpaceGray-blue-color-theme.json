@@ -81,7 +81,7 @@
     "tab.hoverBorder": "#0c4094",
     "statusBar.border": "#0c409448",
     "notifications.border": "#0c4094",
-    "editorCursor.foreground": "#0c4094",
+    "editorCursor.foreground": "#ddd",
     "terminalCursor.foreground": "#0850c4"
   },
   "tokenColors": [
