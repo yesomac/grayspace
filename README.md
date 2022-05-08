@@ -1,6 +1,12 @@
 # ***GRAY SPACE***
 
 New Themes!
+# Gray Space Green
+![This is an image](https://github.com/yesomac/grayspace/blob/master/grayspacegreen.png?raw=true)
+
+# Gray Space LightGreen
+![This is an image](https://github.com/yesomac/grayspace/blob/master/grayspacelightgreen.png?raw=true)
+
 # Gray Space Blue
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/grayspaceblue.png?raw=true)
 
