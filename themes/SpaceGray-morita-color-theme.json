@@ -41,10 +41,10 @@
 
 		"titleBar.activeBackground": "#1b011b9a",
 		
-		"input.background": "#29262F",
-		"input.border": "#000",
+		"input.background": "#27042777",
+		"input.border": "#880788",
 		"input.placeholderForeground": "#fff",
-		"focusBorder": "#110b1b",
+		"focusBorder": "#7141be",
 
 		"button.background": "#0800089a",
 
