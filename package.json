@@ -18,7 +18,8 @@
         "SpaceGrayGreen",
         "SpaceGrayLightGreen",
         "SpaceGray II",
-        "SpaceGray Black"
+        "SpaceGray Black",
+        "SpaceGray II"
     ],
     "categories": [
         "Themes"
@@ -29,6 +30,11 @@
                 "label": "SpaceGray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-color-theme.json"
+            },
+            {
+                "label": "SpaceGray III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-III-color-theme.json"
             },
             {
                 "label": "SpaceGraySober",
