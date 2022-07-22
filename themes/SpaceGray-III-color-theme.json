@@ -73,7 +73,7 @@
     "editorHoverWidget.background": "#303030",
     "list.activeSelectionBackground": "#50532b",
     // "sideBar.border": "#ebf5a059",
-    "sideBarSectionHeader.border": "#ebf5a021",
+    // "sideBarSectionHeader.border": "#ebf5a021",
     "activityBar.border": "#ebf5a07c",
     "menu.border": "#ebf5a086",
     "panel.border": "#ebf5a0",

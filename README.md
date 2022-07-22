@@ -1,6 +1,9 @@
 # ***GRAY SPACE***
 
 New Themes!
+## Gray Space III
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/gray-yellow.png?raw=true)
+
 ## Gray Space II
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayII.png?raw=true)
 
