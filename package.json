@@ -37,6 +37,11 @@
                 "path": "./themes/SpaceGray-III-color-theme.json"
             },
             {
+                "label": "SpaceGray IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-IV-color-theme.json"
+            },
+            {
                 "label": "SpaceGraySober",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-color-theme-sober.json"
