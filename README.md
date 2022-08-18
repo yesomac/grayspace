@@ -13,10 +13,10 @@ New Themes!
 ---
 
 ##  Gray Space
-![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspace.png?raw=true)
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray.png?raw=true)
 
 ## Deep Gray Space 
-![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspacedeep.png?raw=true)
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-deep.png?raw=true)
 
 ## Space Gray Morita 
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspacemorita.png?raw=true)
