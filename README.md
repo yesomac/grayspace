@@ -1,32 +1,32 @@
 # ***GRAY SPACE***
 
-##  Gray Space
+###  Gray Space
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray.png?raw=true)
 
-## Gray Space II
+### Gray Space II
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayII.png?raw=true)
 
-## Gray Space III
+### Gray Space III
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-III.png?raw=true)
 
-## Gray Space IV
+### Gray Space IV
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-IV.png?raw=true)
 
-## Gray Space Black
+### Gray Space Black
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspace_black.png?raw=true)
 
 
 
-## Deep Gray Space 
+### Deep Gray Space 
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-deep.png?raw=true)
 
-## Space Gray Morita 
+### Space Gray Morita 
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-morita.png?raw=true)
 
-## Space Gray Morita 14
+### Space Gray Morita 14
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspacemorita14.png?raw=true)
 
-##  Gray Sober
+###  Gray Sober
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-sober.png?raw=true)
 ---
 **Fonts:** 
