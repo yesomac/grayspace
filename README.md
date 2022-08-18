@@ -9,6 +9,9 @@
 ## Gray Space III
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-III.png?raw=true)
 
+## Gray Space IV
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-IV.png?raw=true)
+
 ## Gray Space Black
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspace_black.png?raw=true)
 
