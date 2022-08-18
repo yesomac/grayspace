@@ -6,7 +6,7 @@
 		"editor.foreground": "#efffff",
 		"editorLineNumber.foreground": "#6c6d6ac7",
 		"editorLineNumber.activeForeground": "#fff",
-		"editorGroupHeader.tabsBackground": "#201E23",
+		"editorGroupHeader.tabsBackground": "#26202e",
 		"editor.selectionBackground": "#26202e",
 		"editor.inactiveSelectionBackground": "#26202e",
 		"editor.lineHighlightBackground": "#706f7217",
@@ -34,12 +34,12 @@
 		"badge.background": "#2d2b31",
 		
 		"menu.background": "#201E23",
-		"tab.activeBackground": "#26202e",
-		"tab.inactiveBackground": "#201E23",
+		"tab.activeBackground": "#201E23",
+		"tab.inactiveBackground": "#26202e",
 		"tab.hoverBackground": "#2d2b31",
 		"tab.activeBorder": "#201E23",
 		"tab.activeBorderTop": "#201E23",
-		"tab.border": "#201E23",
+		"tab.border": "#26202e",
 		"tab.activeForeground": "#fff",
 
 		"titleBar.activeBackground": "#201E23",
@@ -80,7 +80,7 @@
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#FAC03B",
 		
-		"editor.hoverHighlightBackground": "#5f5d5d",
+		"editor.hoverHighlightBackground": "#30336b",
 		"editorHoverWidget.background": "#141414",
 		"list.activeSelectionBackground": "#5f5d5d",
 
@@ -93,8 +93,11 @@
     "tab.hoverBorder": "#4d4c503d",
     "statusBar.border": "#4d4c503d",
     "notifications.border": "#4d4c503d",
-    "editorCursor.foreground": "#4d4c503d",
-    "terminalCursor.foreground": "#4d4c503d"
+    "editorCursor.foreground": "#dff9fb",
+    "terminalCursor.foreground": "#dff9fb",
+		"icon.foreground": "#dff9fb",
+		"statusBar.foreground": "#dff9fb",
+		"statusBarItem.hoverBackground": "#071c44"
 	},
 	"tokenColors": [
 		{

@@ -145,6 +145,7 @@
     // "terminal.findMatchBorder": "#2051e4",
     "terminal.findMatchHighlightBackground": "#2b3650",
     "terminalOverviewRuler.cursorForeground": "#fff",
+    "editorOverviewRuler.findMatchForeground": "#7459a3",
   },
   "tokenColors": [
     {
