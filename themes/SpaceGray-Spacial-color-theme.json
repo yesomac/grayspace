@@ -177,7 +177,7 @@
 		"statusBar.foreground": "#bec0c0",
 		"statusBarItem.hoverBackground": "#293332",
 		"statusBarItem.remoteBackground": "#382755",
-		"statusBarItem.remoteForeground": "#aecedb",
+		"statusBarItem.remoteForeground": "#998fbe",
 		
 		//notifications
 		"notifications.foreground": "#fff",
