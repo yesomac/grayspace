@@ -19,8 +19,8 @@
 		"editorGutter.background": "#242424",
 		"editorInfo.border": "#5e479e",
 		"editorGroup.border": "#3d4549",
-		"editorCursor.foreground": "#9cabb3",
-		"terminalCursor.foreground": "#6c6d6ac7",
+		"editorCursor.foreground": "#a28cf0",
+		"terminalCursor.foreground": "#5c4a9c",
 		"icon.foreground": "#d5c1f7",//919980
 		"tree.indentGuidesStroke": "#cdb6f5",
 		"editorIndentGuide.background": "#7a9ff017",
@@ -171,7 +171,7 @@
 		//statusBar
 		"statusBar.background": "#1e1b29",
 		"statusBar.noFolderBackground": "#212121",
-		"statusBar.debuggingBackground": "#011b29",
+		"statusBar.debuggingBackground": "#1c1631",
 		"statusBar.debuggingForeground": "#fff",
 		"banner.background": "#29393f",
 		"statusBar.foreground": "#bec0c0",
