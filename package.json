@@ -42,6 +42,11 @@
                 "path": "./themes/SpaceGray-Spacial-S-color-theme.json"
             },
             {
+                "label": "SpaceGray Spacial Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-Spacial-Dark-color-theme.json"
+            },
+            {
                 "label": "SpaceGray Spacial Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-Spacial-Blue-color-theme.json"
@@ -50,6 +55,11 @@
                 "label": "SpaceGray Spacial Blue S",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-Spacial-Blue-S-color-theme.json"
+            },
+            {
+                "label": "SpaceGray Spacial Blue Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-Spacial-Blue-Dark-color-theme.json"
             },
             {
                 "label": "SpaceGray III",
