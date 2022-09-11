@@ -2,7 +2,7 @@
     "name": "grayspace",
     "displayName": "GraySpace",
     "description": "",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -45,6 +45,11 @@
                 "label": "SpaceGray Spacial Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-Spacial-Blue-color-theme.json"
+            },
+            {
+                "label": "SpaceGray Spacial Blue S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-Spacial-Blue-S-color-theme.json"
             },
             {
                 "label": "SpaceGray III",
