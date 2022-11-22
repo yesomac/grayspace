@@ -9,17 +9,8 @@
     "keywords": [
         "Theme",
         "SpaceGray",
-        "SpaceGraySober",
-        "SpaceGrayDeep",
-        "SpaceGrayMorita",
-        "SpaceGrayMorita14",
-        "SpaceGrayPurple",
-        "SpaceGrayBlue",
-        "SpaceGrayGreen",
-        "SpaceGrayLightGreen",
-        "SpaceGray II",
-        "SpaceGray Black",
-        "SpaceGray II"
+        "Gray",
+        "Dark"
     ],
     "categories": [
         "Themes"
@@ -120,6 +111,16 @@
                 "label": "SpaceGray Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/SpaceGray-Black-color-theme.json"
+            },
+            {
+                "label": "SpaceGray Sober S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-sober-s-color-theme.json"
+            },
+            {
+                "label": "SpaceGray Sober S Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SpaceGray-sober-s-dark-color-theme.json"
             }
         ]
     },

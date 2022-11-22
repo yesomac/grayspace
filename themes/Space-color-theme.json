@@ -7,15 +7,15 @@
 		"editorLineNumber.foreground": "#6c6d6ac7",
 		"editorLineNumber.activeForeground": "#fff",
 		"editorGroupHeader.tabsBackground": "#000611",
-		"editor.selectionBackground": "#000611ab",
-		"editor.inactiveSelectionBackground": "#000611",
+		"editor.selectionBackground": "#131f36be",
+		"editor.inactiveSelectionBackground": "#131f36be",
 		"editor.lineHighlightBackground": "#706f7217",
 		"editorIndentGuide.activeBackground": "#a0a0a071",
 		"editor.findMatchBackground": "#000611",
 		"editor.findMatchHighlightBackground": "#1b1e24",
 		"editorWidget.background":"#000611",
 		"editorSuggestWidget.background": "#0E0F11",
-		"editorSuggestWidget.selectedBackground": "#444343a9",
+		"editorSuggestWidget.selectedBackground": "#1a2730a9",
 
 		"activityBarBadge.background": "#042664",
 		"activityBar.activeBackground": "#0E0F11",
@@ -110,9 +110,9 @@
 		"minimapSlider.activeBackground": "#00000028",
 		"editor.rangeHighlightBackground": "#000",
 		"editor.rangeHighlightBorder": "#2b2b2b",
-		"editor.selectionHighlightBackground": "#ad16ad", /////
+		"editor.selectionHighlightBackground": "#ad16ad50", /////
 		"editor.wordHighlightBackground": "#10306d",
-		"editor.wordHighlightStrongBackground": "#8b0443c0",
+		"editor.wordHighlightStrongBackground": "#8b044394",
 		"editor.wordHighlightStrongBorder": "#2b29ad",
 		//342d31
 		"editorBracketHighlight.foreground1": "#baec04",
@@ -127,7 +127,7 @@
 		"editorHoverWidget.border": "#5f61ce",
 		"editorHoverWidget.foreground": "#fff",
 		"editorOverviewRuler.border": "#342d31",
-		"editorSuggestWidget.border": "#6b485c",
+		"editorSuggestWidget.border": "#48566b",
 		"editorSuggestWidget.focusHighlightForeground": "#989999",
 		"editorSuggestWidget.foreground": "#f5d9eb",
 		"editorSuggestWidget.highlightForeground": "#df83b7",
@@ -142,7 +142,7 @@
 		//2e262b
 		"titleBar.border": "#0E0F11",
 		"tab.hoverBorder": "#151b22",
-		"editor.lineHighlightBorder": "#0E0F11",
+		"editor.lineHighlightBorder": "#706f720a",
 		"breadcrumb.background": "#0E0F11",
 		"breadcrumb.focusForeground": "#ee9dcf",
 		"breadcrumb.foreground": "#cdcdcd",
@@ -775,6 +775,54 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"source.python",
+            "meta.function-call.arguments.python",
+			],
+			"settings": {
+				"foreground": "#f0d1ad"
+			}
+		},
+		{
+			"name": "ANNOTATION",
+			"scope": [
+				"source.python support.type.python"
+			],
+			"settings": {
+				"foreground": "#d67e5c"
+			}
+		},
+		{
+			"name": "STRINGINTERPOLATED",
+			"scope": [
+				"string.interpolated.python string.quoted.single.python"
+			],
+			"settings": {
+				"foreground": "#16b673"
+			}
+		},
+		{
+			"name": "FUNCTION",
+			"scope": [
+				"meta.function-call.generic.python"
+			],
+			"settings": {
+				"foreground": "#af61ee"
+			}
+		},
+		{
+			"name": "MISC",
+			"scope": [
+				"storage.type.string.python",
+				"source.python meta.function-call.python support.type.python",
+            "entity.other.inherited-class.python",
+			],
+			"settings": {
+				"foreground": "#49ace9",
 			}
 		}
 	]
