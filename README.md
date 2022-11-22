@@ -1,6 +1,6 @@
 # ***GRAY SPACE***
 
-###  Gray Space
+<!--###  Gray Space
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray.png?raw=true)
 
 ### Gray Space II
@@ -27,8 +27,15 @@
 ![This is an image](https://github.com/yesomac/grayspace/blob/master/img/grayspacemorita14.png?raw=true)
 
 ###  Gray Sober
-![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-sober.png?raw=true)
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/space-gray-sober.png?raw=true)-->
+
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/img/sg_1.jpg?raw=true)
+
+# 
+
+![This is an image](https://github.com/yesomac/grayspace/blob/master/img/img/sg_2.jpg?raw=true)
 ---
+
 **Fonts:** 
 
   * Comic Mono - https://dtinth.github.io/comic-mono-font/
